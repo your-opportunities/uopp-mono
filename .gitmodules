@@ -1,0 +1,18 @@
+[submodule "uopp-telegram-scrapper"]
+	path = uopp-telegram-scrapper
+	url = https://github.com/your-opportunities/uopp-telegram-scrapper
+[submodule "uopp-data-processor"]
+	path = uopp-data-processor
+	url = https://github.com/your-opportunities/uopp-data-processor
+[submodule "uopp-core"]
+	path = uopp-core
+	url = https://github.com/your-opportunities/uopp-core
+[submodule "uopp-email-sender"]
+	path = uopp-email-sender
+	url = https://github.com/your-opportunities/uopp-email-sender
+[submodule "uopp-telegram-bot"]
+	path = uopp-telegram-bot
+	url = https://github.com/your-opportunities/uopp-telegram-bot
+[submodule "uopp-spa"]
+	path = uopp-spa
+	url = https://github.com/your-opportunities/uopp-spa
